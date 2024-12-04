@@ -14,6 +14,15 @@ I hold a Master's degree in MIAGE SITN from Université Paris Dauphine and have 
 
 ## 💼 Professional Experience
 
+### **Ad Astra (Deloitte Accounting Services)**  
+*Data Analyst | Jan 2024 – Sept 2024*  
+
+- **Post-Merger Reporting:** Centralized HR data for two merged entities, harmonizing KPIs such as turnover and absenteeism.
+- **Real-Time Dashboards:** Created Power BI dashboards that provided senior management with insights into workforce performance and resource allocation.
+- **ETL Automation:** Built automated data pipelines using Azure Data Factory and Databricks to streamline HR reporting processes.
+- 
+---
+
 ### **BNP Paribas CIB**  
 *Data Analyst | Sept 2021 – Nov 2023*  
 
@@ -21,15 +30,6 @@ I hold a Master's degree in MIAGE SITN from Université Paris Dauphine and have 
 - **Azure Data Solutions:** Built scalable data pipelines using Azure Data Factory and Databricks for data integration and transformation.
 - **Performance Optimization:** Developed star schema data models in Azure SQL to ensure optimal dashboard performance.
 - **Asset Management Collaboration:** Supported asset management-related tasks, integrating project budgets and financial data into decision-support dashboards.
-
----
-
-### **Ad Astra (Deloitte Accounting Services)**  
-*Data Analyst | Jan 2024 – Sept 2024*  
-
-- **Post-Merger Reporting:** Centralized HR data for two merged entities, harmonizing KPIs such as turnover and absenteeism.
-- **Real-Time Dashboards:** Created Power BI dashboards that provided senior management with insights into workforce performance and resource allocation.
-- **ETL Automation:** Built automated data pipelines using Azure Data Factory and Databricks to streamline HR reporting processes.
 
 ---
 
