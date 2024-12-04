@@ -75,7 +75,7 @@ I hold a Master's degree in MIAGE SITN from Université Paris Dauphine and have 
 
 Feel free to connect with me:
 
-- **[LinkedIn](https://linkedin.com/in/chahid-ouraghene)**
+- **[LinkedIn](https://www.linkedin.com/in/chahidouraghene/)**
 - **Email:** chahid.ouraghene@gmail.com  
 
 Thank you for visiting my portfolio!
