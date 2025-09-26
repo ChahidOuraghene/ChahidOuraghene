@@ -1,81 +1,98 @@
-# Chahid Ouraghene - Data Analyst Portfolio
+# Chahid Ouraghene – Data & SaaS Developer | Power BI & AI Expert  
 
-Welcome to my GitHub Portfolio! This repository highlights my professional journey, technical expertise, and impactful projects I've delivered during my career as a Data Analyst.
-
----
-
-## 👋 About Me
-
-I am a Data Analyst with over 4 years of experience working across various industries, including IT governance, human resources, and customer satisfaction. I specialize in creating robust data models, automating reporting workflows, and designing insightful dashboards to help businesses make data-driven decisions.
-
-I hold a Master's degree in MIAGE SITN from Université Paris Dauphine and have developed strong expertise in tools like Power BI, SQL, Azure, and Python (PySpark).
+Welcome to my GitHub Portfolio! This repository highlights my professional journey, technical expertise, and impactful projects I've delivered in **Data Analytics, SaaS development, and Artificial Intelligence**.  
 
 ---
 
-## 💼 Professional Experience
+## 👋 About Me  
 
-### **Ad Astra (Deloitte Accounting Services)**  
-*Data Analyst | Jan 2024 – Sept 2024*  
+I am a **Data Analyst, SaaS Developer, and AI Enthusiast** with over 4 years of experience helping companies unlock the value of their data and build digital solutions that scale.  
 
-- **Post-Merger Reporting:** Centralized HR data for two merged entities, harmonizing KPIs such as turnover and absenteeism.
-- **Real-Time Dashboards:** Created Power BI dashboards that provided senior management with insights into workforce performance and resource allocation.
-- **ETL Automation:** Built automated data pipelines using Azure Data Factory and Databricks to streamline HR reporting processes.
-- 
+My expertise includes:  
+- **Business Intelligence**: designing automated dashboards and robust data models (Power BI, SQL, Azure).  
+- **SaaS Development**: building scalable, data-driven applications tailored to business needs.  
+- **Artificial Intelligence**: leveraging machine learning and data science to create predictive and intelligent solutions.  
+- **Consulting & Delivery**: from requirement gathering to solution deployment, ensuring measurable business impact.  
+
+🎓 I hold a Master’s degree in **MIAGE SITN** from Université Paris-Dauphine.  
+⚡ My stack spans **Power BI, SQL, Azure Data Factory, Databricks, Python (PySpark), Power Platform, and SaaS/AI frameworks**.  
+
+---
+
+## 💼 Professional Experience  
+
+### **Onet – Lead Data Analyst & SaaS Developer**  
+*Oct 2024 – Present | Paris, France*  
+
+- **Multi-Site Data Consolidation:** Unified and harmonized data from **120+ logistics sites**, building a centralized reporting repository.  
+- **Power BI Dashboards:** Deployed automated dashboards for productivity, incidents, interim rates, and cut-off compliance.  
+- **Business Impact:** Improved operational performance and contributed to **increased revenue** through data-driven decision-making.  
+- **SaaS & AI Initiatives:** Designed prototypes of internal SaaS solutions for logistics performance and explored AI-driven optimizations.  
+- **Leadership:** Supervised a Data Engineer and Data Analyst, led agile projects, and drove BI adoption across sites.  
+
+---
+
+### **Ad Astra (Consulting & Audit)**  
+*Data Analyst | Jan 2024 – Sept 2024 | Paris, France*  
+
+- Post-merger reporting: centralized HR KPIs (turnover, absenteeism) into unified dashboards.  
+- Automated pipelines with Azure Data Factory & Databricks.  
+- Created real-time dashboards in Power BI for workforce management.  
+- Supported change management and trained HR teams on BI tools.  
+
 ---
 
 ### **BNP Paribas CIB**  
-*Data Analyst | Sept 2021 – Nov 2023*  
+*Data Analyst | Sept 2021 – Nov 2023 | Paris, France*  
 
-- **Centralized Reporting for IT Governance:** Designed automated dashboards in Power BI to track 2000+ strategic IT projects, reducing reporting time by 50%.
-- **Azure Data Solutions:** Built scalable data pipelines using Azure Data Factory and Databricks for data integration and transformation.
-- **Performance Optimization:** Developed star schema data models in Azure SQL to ensure optimal dashboard performance.
-- **Asset Management Collaboration:** Supported asset management-related tasks, integrating project budgets and financial data into decision-support dashboards.
+- Automated pipelines and integrated SQL/SharePoint data into Azure.  
+- Built **Power BI dashboards** for 2000+ IT projects, reducing reporting time by 50%.  
+- Optimized performance with star schema models in Azure SQL.  
+- Collaborated with asset management and IT governance teams to align KPIs with strategy.  
 
 ---
 
 ### **AFPA**  
-*Data Analyst | Sept 2020 – Sept 2021*  
+*Data Analyst | Sept 2020 – Sept 2021 | Paris, France*  
 
-- **Customer Satisfaction Analysis:** Consolidated and analyzed feedback data from 300+ training centers to identify areas for improvement.
-- **Interactive Dashboards:** Developed Power BI dashboards for tracking counselor performance, client satisfaction (NPS), and enrollment trends.
-- **Data Automation:** Automated data consolidation workflows using SQL and Power BI, reducing manual reporting efforts by 30%.
-
----
-
-## 🛠️ Technical Skills
-
-- **Data Analysis & Modeling:** SQL, Azure SQL, Databricks, Power Query
-- **Data Visualization Tools:** Power BI, Tableau
-- **Data Integration & ETL:** Azure Data Factory, Python (PySpark)
-- **Workflow Optimization:** Automating reporting pipelines and streamlining data models
-- **Methodologies:** Agile (Kanban), Data-Driven Decision Making
+- Analyzed customer satisfaction across 300+ training centers.  
+- Developed Power BI dashboards for NPS tracking, counselor performance, and enrollment trends.  
+- Automated reporting processes, reducing manual efforts by 30%.  
 
 ---
 
-## 📂 Featured Projects
+## 🛠️ Technical Skills  
 
-### **1. IT Governance Dashboard**  
-*BNP Paribas CIB*  
-- Migrated manual project tracking reports to Power BI, enabling real-time monitoring of 2000+ IT projects.  
-- Designed a star schema data model to optimize dashboard performance and accelerate decision-making.
-
-### **2. HR Reporting Post-Merger**  
-*Ad Astra*  
-- Centralized HR data from two entities into unified dashboards, providing leadership with clear insights into employee performance and absenteeism.  
-- Automated data workflows using Azure tools, ensuring real-time updates and reducing manual effort.
-
-### **3. Training Satisfaction Insights**  
-*AFPA*  
-- Consolidated customer feedback data into actionable dashboards, enabling the identification of improvement areas for 300 training centers.  
-- Automated data preparation workflows, saving operational teams significant time and effort.
+- **Business Intelligence & Data**: Power BI, SQL, Databricks, Azure Data Factory, Power Query  
+- **SaaS Development**: API design, scalable architectures, workflow automation  
+- **Artificial Intelligence**: Python (PySpark, ML libraries), predictive analytics, data science workflows  
+- **Power Platform**: Power Automate, PowerApps, SharePoint  
+- **Data Methodologies**: Agile (Scrum/Kanban), data governance, requirement gathering  
+- **Cloud & Architecture**: Microsoft Azure ecosystem  
 
 ---
 
-## 📫 Get in Touch
+## 📂 Featured Projects  
 
-Feel free to connect with me:
+### **1. Logistics SaaS & BI Dashboards** *(Onet)*  
+- Consolidated data from 120+ sites into a centralized SaaS-like BI platform.  
+- Developed **Power BI dashboards** to track KPIs in real-time.  
+- Piloted **AI-driven scenarios** for logistics optimization and performance forecasting.  
 
-- **[LinkedIn](https://www.linkedin.com/in/chahidouraghene/)**
+### **2. HR Reporting Post-Merger** *(Ad Astra)*  
+- Unified HR KPIs into dashboards.  
+- Automated workflows with Azure pipelines.  
+- Empowered HR leaders with self-service BI.  
+
+### **3. IT Governance Dashboard** *(BNP Paribas CIB)*  
+- Migrated manual reporting into Power BI for 2000+ projects.  
+- Improved transparency and accelerated decision-making.  
+
+---
+
+## 📫 Get in Touch  
+
+- **[LinkedIn](https://www.linkedin.com/in/chahidouraghene/)**  
 - **Email:** chahid.ouraghene@gmail.com  
 
-Thank you for visiting my portfolio!
+Thank you for visiting my portfolio 🚀  
