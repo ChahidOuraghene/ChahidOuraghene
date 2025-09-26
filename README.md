@@ -21,7 +21,7 @@ My expertise includes:
 
 ## 💼 Professional Experience  
 
-### **Onet – Lead Data Analyst & SaaS Developer**  
+### **Onet – Lead Data Analyst **  
 *Oct 2024 – Present | Paris, France*  
 
 - **Multi-Site Data Consolidation:** Unified and harmonized data from **120+ logistics sites**, building a centralized reporting repository.  
